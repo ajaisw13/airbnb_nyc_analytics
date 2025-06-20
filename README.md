@@ -1,4 +1,4 @@
-# Airbnb Analytics 
+# Airbnb NYC Housing Analytics
 
 - Developed an interactive Airbnb NYC Housing Analytics Dashboard to visualize pricing trends across neighborhoods.
 - Analyzed open data from Kaggle to calculate average room prices and identify minimum housing costs by area.
