@@ -4,11 +4,15 @@ An interactive analytics dashboard built with **Next.js**, **TypeScript**, and *
 
 ## Live Demo
 
-> Add your Vercel deployment URL here after deploying.
+[https://airbnb-nyc-analytics.vercel.app/](https://airbnb-nyc-analytics.vercel.app/)
 
 ## Screenshots
 
-> Add screenshots of the dashboard, reports, and house list pages here.
+![Dashboard](public/screenshots/dashboard.png)
+
+![Reports](public/screenshots/Reports.png)
+
+![House List](public/screenshots/housinglist.png)
 
 ## Features
 
